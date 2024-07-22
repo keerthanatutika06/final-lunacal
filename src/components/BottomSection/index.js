@@ -1,4 +1,5 @@
 import './index.css'
+import React from 'react';
 import SuccessModal from '../SuccessModal'
 import {useState} from 'react'
 
