@@ -2,6 +2,8 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
+  "main":"index.js",
+  "homepage": "./",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.6.0",
