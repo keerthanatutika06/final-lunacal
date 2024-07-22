@@ -1,0 +1,28 @@
+.info-card-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 50px;
+}
+.info-card{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 5px 5px rgb(82, 82, 83);
+    margin-right: 20px;
+    border-top: 3px solid rgb(65, 27, 106);
+    padding-top: 10px;
+    border-radius: 6px;
+}
+.info-title{
+    font-size: 20px;
+    margin: 0;
+}
+.info-detail-card-container{
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
